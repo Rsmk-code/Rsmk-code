@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ahmad Ramin Soleyman Kheyl</h1>
+### <h1 align="center"><samp>&gt; Hi there, I'm<a href="https://gkassym.netlify.app" target="_blank"> Ramin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
+
 <div align="center"><img src="https://media.licdn.com/dms/image/D4D16AQEQsvZA--EfJw/profile-displaybackgroundimage-shrink_350_1400/0/1685392008241?e=1697673600&v=beta&t=IQGAgIe7pxDjQHTa_R9MLfc-tl8_FrG1j2-iBrFLDoU"></div>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsmk-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsmk-code" /> </p>
 
-- 👨🏽‍🔧 I’m currently working on [Byte and Bite](https://github.com/AsliSema/byte-and-bite)
-
-- 💬 How to reach me **sramin963@gmail.com**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;I’m currently working on [Byte and Bite](https://github.com/AsliSema/byte-and-bite)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; **sramin963@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
