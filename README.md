@@ -22,8 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsmk-code&show_icons=true&locale=en" alt="rsmk-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsmk-code&" alt="rsmk-code" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rsmk-code&limit=5&theme=flat&combine_all_yearly_contributions=true)
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Rsmk-code/Rsmk-code/blob/output/github-contribution-grid-snake.svg)
