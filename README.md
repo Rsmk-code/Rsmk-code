@@ -1,6 +1,6 @@
 ### <h1 align="center"><samp>&gt; Hi there, I'm<a href="https://gkassym.netlify.app" target="_blank"> Ramin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
 
-<div align="center"><img src="https://media.licdn.com/dms/image/D4D16AQEQsvZA--EfJw/profile-displaybackgroundimage-shrink_350_1400/0/1685392008241?e=1697673600&v=beta&t=IQGAgIe7pxDjQHTa_R9MLfc-tl8_FrG1j2-iBrFLDoU"></div>
+<div align="center"><img src="https://miro.medium.com/v2/resize:fit:828/1*OF0xEMkWBv-69zvmNs6RDQ.gif"></div>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsmk-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsmk-code" /> </p>
