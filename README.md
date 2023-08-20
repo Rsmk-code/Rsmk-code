@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsmk-code&label=Profile%20views&color=0e75b6&style=flat" alt="rsmk-code" /> </p>
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;I’m currently working on [Byte and Bite](https://github.com/AsliSema/byte-and-bite)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;I’m currently working on [Byte and Bite](https://github.com/Rsmk-code/byte-and-bite)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; **sramin963@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
