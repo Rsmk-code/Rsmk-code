@@ -1,4 +1,4 @@
-### <h1 align="center"><samp>&gt; Hi there, I'm<a href="https://gkassym.netlify.app" target="_blank"> Ramin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
+### <h1 align="center"><samp>&gt; Hi there, I'm<a href="" target="_blank"> Ramin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
 
 <div align="center"><img src="https://miro.medium.com/v2/resize:fit:828/1*OF0xEMkWBv-69zvmNs6RDQ.gif"></div>
 <h1 align="center">Backend Developer</h1>
